@@ -116,7 +116,7 @@ Once the server is running, visit `http://localhost:3000` to start using the app
 
 ## Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nikolasburk/nextjs-prisma-postrgres-netlify-starter)
 
 
 ## Next steps
